@@ -1,0 +1,186 @@
+#hero {
+    width: 100%;
+    height: 100vh;
+    background-image: url(/Programmer/dendy1.jpeg);
+    background-size: cover;
+}
+.align-items-center {
+    align-items: center!important;
+}
+.justify-content-center {
+    justify-content: center!important;
+}
+.flex-column {
+    flex-direction: column!important;
+}
+.d-flex {
+    display: flex!important;
+}
+section {
+    padding: 60px 0;
+    overflow: hidden;
+}
+section {
+    background: #21cadc;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+/* stylesheet agen pengguna */
+section {
+    display: block;
+}
+body {
+    font-family: "Open Sans", sans-serif;
+    color: #0b0d0d;
+}
+body {
+    margin: 0;
+    font-family: var(--bs-body-font-family);
+    font-size: var(--bs-body-font-size);
+    font-weight: var(--bs-body-font-weight);
+    line-height: var(--bs-body-line-height);
+    color: var(--bs-body-color);
+    text-align: var(--bs-body-text-align);
+    background-color: var(--bs-body-bg);
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: transparent;
+}
+:root {
+    --swiper-navigation-size: 44px;
+}
+:root {
+    --swiper-theme-color: #007aff;
+}
+:root {
+    --bs-blue: #0d6efd;
+    --bs-indigo: #6610f2;
+    --bs-purple: #6f42c1;
+    --bs-pink: #d63384;
+    --bs-red: #dc3545;
+    --bs-orange: #fd7e14;
+    --bs-yellow: #ffc107;
+    --bs-green: #198754;
+    --bs-teal: #20c997;
+    --bs-cyan: #0dcaf0;
+    --bs-white: #fff;
+    --bs-gray: #6c757d;
+    --bs-gray-dark: #eff1f3;
+    --bs-gray-100: #0d0e0f;
+    --bs-gray-200: #e9ecef;
+    --bs-gray-300: #dee2e6;
+    --bs-gray-400: #ced4da;
+    --bs-gray-500: #adb5bd;
+    --bs-gray-600: #6c757d;
+    --bs-gray-700: #495057;
+    --bs-gray-800: #343a40;
+    --bs-gray-900: #212529;
+    --bs-primary: #0d6efd;
+    --bs-secondary: #6c757d;
+    --bs-success: #198754;
+    --bs-info: #0dcaf0;
+    --bs-warning: #ffc107;
+    --bs-danger: #dc3545;
+    --bs-light: #f8f9fa;
+    --bs-dark: #212529;
+    --bs-primary-rgb: 13,110,253;
+    --bs-secondary-rgb: 108,117,125;
+    --bs-success-rgb: 25,135,84;
+    --bs-info-rgb: 13,202,240;
+    --bs-warning-rgb: 255,193,7;
+    --bs-danger-rgb: 220,53,69;
+    --bs-light-rgb: 248,249,250;
+    --bs-dark-rgb: 33,37,41;
+    --bs-white-rgb: 255,255,255;
+    --bs-black-rgb: 0,0,0;
+    --bs-body-color-rgb: 33,37,41;
+    --bs-body-bg-rgb: 255,255,255;
+    --bs-font-sans-serif: system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans","Liberation Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    --bs-font-monospace: SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
+    --bs-gradient: linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0));
+    --bs-body-font-family: var(--bs-font-sans-serif);
+    --bs-body-font-size: 1rem;
+    --bs-body-font-weight: 400;
+    --bs-body-line-height: 1.5;
+    --bs-body-color: #212529;
+    /*  */
+/* Tampilkan Semua Properti (1 lainnya) */
+}
+stylesheet yang dimasukkan
+:root {
+    --lt-color-gray-100:  #f8f9fc;
+    --lt-color-gray-200:  #f1f3f9;
+    --lt-color-gray-300:  #dee3ed;
+    --lt-color-gray-400:  #c2c9d6;
+    --lt-color-gray-500:  #8f96a3;
+    --lt-color-gray-600:  #5e636e;
+    --lt-color-gray-700:  #2f3237;
+    --lt-color-gray-800:  #1d1e20;
+    --lt-color-gray-900:  #111213;
+    --lt-shadowDefault:  0 2px 6px -1px rgba(0, 0, 0, 0.16), 0 1px 4px -1px rgba(0, 0, 0, 0.04);
+    --lt-shadowActive:  0 0 8px -2px rgba(0, 0, 0, 0.1), 0 6px 20px -3px rgba(0, 0, 0, 0.2);
+    --lt-color-white:  #fff !important;
+    --lt-color-black:  #111213 !important;
+    --lt-color-transparent:  rgba(255, 255, 255, 0) !important;
+    --lt-color-background-light:  var(--lt-color-gray-100) !important;
+    --lt-color-background-default:  var(--lt-color-gray-200) !important;
+    --lt-color-background-dark:  var(--lt-color-gray-300) !important;
+    --lt-color-border-light:  var(--lt-color-gray-200) !important;
+    --lt-color-border-default:  var(--lt-color-gray-300) !important;
+    --lt-color-border-dark:  var(--lt-color-gray-400) !important;
+    --lt-color-text-very-light:  var(--lt-color-gray-500) !important;
+    --lt-color-text-light:  var(--lt-color-gray-600) !important;
+    --lt-color-text-default:  var(--lt-color-gray-700) !important;
+    --lt-color-text-dark:  var(--lt-color-gray-800) !important;
+    --lt-color-overlay-default:  #fff !important;
+    --lt-color-overlay-dark:  #fff !important;
+    --lt-color-overlay-transparent:  rgba(0, 0, 0, 0.1) !important;
+    --lt-shadow-website-overlay:  0 0 7px 0 rgba(0, 0, 0, 0.3) !important;
+}
+stylesheet yang dimasukkan
+:root {
+    --lt-color-gray-100:  #f8f9fc;
+    --lt-color-gray-200:  #f1f3f9;
+    --lt-color-gray-300:  #dee3ed;
+    --lt-color-gray-400:  #c2c9d6;
+    --lt-color-gray-500:  #8f96a3;
+    --lt-color-gray-600:  #5e636e;
+    --lt-color-gray-700:  #2f3237;
+    --lt-color-gray-800:  #1d1e20;
+    --lt-color-gray-900:  #111213;
+    --lt-shadowDefault:  0 2px 6px -1px rgba(0, 0, 0, 0.16), 0 1px 4px -1px rgba(0, 0, 0, 0.04);
+    --lt-shadowActive:  0 0 8px -2px rgba(0, 0, 0, 0.1), 0 6px 20px -3px rgba(0, 0, 0, 0.2);
+    --lt-color-white:  #fff !important;
+    --lt-color-black:  #111213 !important;
+    --lt-color-transparent:  rgba(255, 255, 255, 0) !important;
+    --lt-color-background-light:  var(--lt-color-gray-100) !important;
+    --lt-color-background-default:  var(--lt-color-gray-200) !important;
+    --lt-color-background-dark:  var(--lt-color-gray-300) !important;
+    --lt-color-border-light:  var(--lt-color-gray-200) !important;
+    --lt-color-border-default:  var(--lt-color-gray-300) !important;
+    --lt-color-border-dark:  var(--lt-color-gray-400) !important;
+    --lt-color-text-very-light:  var(--lt-color-gray-500) !important;
+    --lt-color-text-light:  var(--lt-color-gray-600) !important;
+    --lt-color-text-default:  var(--lt-color-gray-700) !important;
+    --lt-color-text-dark:  var(--lt-color-gray-800) !important;
+    --lt-color-overlay-default:  #fff !important;
+    --lt-color-overlay-dark:  #fff !important;
+    --lt-color-overlay-transparent:  rgba(0, 0, 0, 0.1) !important;
+    --lt-shadow-website-overlay:  0 0 7px 0 rgba(0, 0, 0, 0.3) !important;
+}
+#hero:before {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
